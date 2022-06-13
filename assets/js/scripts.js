@@ -14,6 +14,7 @@ document.getElementById("adicionar").addEventListener("click",function increment
     document.getElementById("subtrair").disabled = false;
   }
   document.getElementById("currentNumber").innerHTML= currentNumber;
+  
 });
 
 
